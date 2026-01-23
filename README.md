@@ -1,7 +1,5 @@
 # AI SecOps Platform
 
-My first cybersecurity and AI project.
-
 This project will:
 - Read Linux security logs
 - Detect suspicious activity
